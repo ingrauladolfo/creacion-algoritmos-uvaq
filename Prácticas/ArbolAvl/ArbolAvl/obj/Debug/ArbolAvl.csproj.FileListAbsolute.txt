@@ -1,0 +1,7 @@
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ArbolAvl\ArbolAvl\bin\Debug\ArbolAvl.exe.config
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ArbolAvl\ArbolAvl\bin\Debug\ArbolAvl.exe
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ArbolAvl\ArbolAvl\bin\Debug\ArbolAvl.pdb
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ArbolAvl\ArbolAvl\obj\Debug\ArbolAvl.csprojAssemblyReference.cache
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ArbolAvl\ArbolAvl\obj\Debug\ArbolAvl.csproj.CoreCompileInputs.cache
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ArbolAvl\ArbolAvl\obj\Debug\ArbolAvl.exe
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ArbolAvl\ArbolAvl\obj\Debug\ArbolAvl.pdb

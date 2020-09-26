@@ -1,0 +1,7 @@
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Factorial\Factorial\bin\Debug\Factorial.exe.config
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Factorial\Factorial\bin\Debug\Factorial.exe
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Factorial\Factorial\bin\Debug\Factorial.pdb
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Factorial\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Factorial\Factorial\obj\Debug\Factorial.exe
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Factorial\Factorial\obj\Debug\Factorial.pdb

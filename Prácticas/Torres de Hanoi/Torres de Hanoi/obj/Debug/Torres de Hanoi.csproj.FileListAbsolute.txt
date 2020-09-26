@@ -1,0 +1,7 @@
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe.config
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.exe
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Torres de Hanoi\Torres de Hanoi\bin\Debug\Torres de Hanoi.pdb
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csproj.CoreCompileInputs.cache
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.exe
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.pdb
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\Torres de Hanoi\Torres de Hanoi\obj\Debug\Torres de Hanoi.csprojAssemblyReference.cache

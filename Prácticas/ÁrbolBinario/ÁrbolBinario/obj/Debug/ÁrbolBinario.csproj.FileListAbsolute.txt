@@ -1,0 +1,7 @@
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ÁrbolBinario\ÁrbolBinario\obj\Debug\ÁrbolBinario.csprojAssemblyReference.cache
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ÁrbolBinario\ÁrbolBinario\obj\Debug\ÁrbolBinario.csproj.CoreCompileInputs.cache
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ÁrbolBinario\ÁrbolBinario\bin\Debug\ArbolBinario.exe.config
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ÁrbolBinario\ÁrbolBinario\bin\Debug\ArbolBinario.exe
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ÁrbolBinario\ÁrbolBinario\bin\Debug\ArbolBinario.pdb
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ÁrbolBinario\ÁrbolBinario\obj\Debug\ArbolBinario.exe
+D:\Cylindrusskary\Documentos\UVAQ\5 semestre\Diseño de algoritmos\Prácticas\ÁrbolBinario\ÁrbolBinario\obj\Debug\ArbolBinario.pdb
